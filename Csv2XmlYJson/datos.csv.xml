@@ -1,0 +1,14 @@
+<registros>
+	<registro>
+		<nombre>Ana</nombre>
+		<profesion>profesora</profesion>
+	</registro>
+	<registro>
+		<nombre>Luis</nombre>
+		<profesion>actor</profesion>
+	</registro>
+	<registro>
+		<nombre>Juan Antonio</nombre>
+		<profesion>bombero</profesion>
+	</registro>
+</registros>
